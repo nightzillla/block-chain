@@ -1,0 +1,12 @@
+Hash: 
+A unique fixed length string, meant to identify a peice of data. They are created by placing data into a "hash function" 
+
+Hash Algorithm: 
+A function that computes data into a unique hash
+
+Nonce: 
+A "number used once" to find the "solution" to the blockchain problem. 
+It's alos used to define the transaction number for an account/address.
+
+Private Key:
+Only known to the key holder, it's used to "sign" transactions
