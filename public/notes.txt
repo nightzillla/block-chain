@@ -13,3 +13,5 @@ Only known to the key holder, it's used to "sign" transactions
 
 Public Key: 
 Is derived from your private key. Anyone can "see" it, and use it to verify that a transaction came from you.
+
+Solidity code => Solidty Compiler => EVM Bytecode
